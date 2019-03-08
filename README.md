@@ -1,6 +1,6 @@
 # Predict_Fututre_Sales
 
-This repository contains all files relevant to the Kaggle competition "Predict Futrue Sales" which can be found at the following link.
+This repository contains all files relevant to the Kaggle competition "Predict Futrue Sales" which can be found at the following link:
 [Competition Description](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 The objective of this playground competition is to predict the number of sales for a given item at a given shop for the succeeding month when they provide the sales of each shop and item for the previous 2 years.
