@@ -8,8 +8,8 @@ The objective of this playground competition is to predict the number of sales f
 This repository is laid out in the following structure:
 - Data
   - This folder contains CSV files of the train and test set after feature engineering. This data is what's used to train and validate a machine learning algorithm.
-- Data_Wrangling
-  - Data_Wrangling.ipynb
+- Feature_Engineering
+  - Feature_Engineering.ipynb
     - This notebook is used for initial data exploration and to feature engineer the data to pass through machine learning algorithms.
     - Consider renaming file and folder to "Feature_Engineering"
 - EDA
@@ -18,7 +18,5 @@ This repository is laid out in the following structure:
 -Machine_Learning
   - Machine_Learning_Models.ipynb
     - Builds a random forest, XGBoost, and recurrent neural network to predict future sales.
-- Predict Future Sales _ Kaggle_files
-  - (This folder may not be necessary. Consider deleting)
 - all
   - This folder contains the original data pulled from Kaggle. It provides the training and test sets, sample submission file, and dictionaries for the enumerated shop/items.
